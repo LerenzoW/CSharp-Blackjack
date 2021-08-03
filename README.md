@@ -1,4 +1,4 @@
 CSharp-Blackjack
 ================
 
-Blackjack project that I've done.
+Blackjack project that I've done at CTI
